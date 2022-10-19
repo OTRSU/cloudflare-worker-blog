@@ -1,13 +1,13 @@
 // 定义 Github 项目，文章会从这里读取
-const github_base = "kasuganosoras/frp-blog";
+const github_base = "OTRSU/cloudflare-worker-blog";
 
 // 设置站点信息
-var default_title	 = "SakuraFrp Blog - 樱花内网穿透官方博客";					// 站点标题（显示在浏览器标题栏）
-var default_intitle	 = "SakuraFrp Blog";								// 站点名称（显示在首页）
-var default_description  = "欢迎访问 Sakura Frp 官方博客，本博客分享与 Frp 相关的技术以及记录一些日常。"; 	// 站点简介，有利于 SEO
-var site_domain		 = "blog.natfrp.org";								// 站点域名
-var site_subtitle	 = "樱花内网穿透官方博客";							// 站点副标题
-var site_favicon	 = "https://cdn.zerodream.net/gitea/img/favicon.png";				// 站点 Logo
+var default_title	 = "Linesrc's Blog - Let IT Fly";					// 站点标题（显示在浏览器标题栏）
+var default_intitle	 = "Linesrc's Blog";								// 站点名称（显示在首页）
+var default_description  = "Yee"; 	// 站点简介，有利于 SEO
+var site_domain		 = "blog.linesrc.tk";								// 站点域名
+var site_subtitle	 = "Linesrc's Blog";							// 站点副标题
+var site_favicon	 = "";				// 站点 Logo
 
 // 博主信息
 var owner_name = "Akkariin";									// 博主名字
